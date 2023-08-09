@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-size: 24px;
+}
+
+
+.caja-1{
+    background: rgb(102, 102, 255);
+    padding: 10px;
+    border: 30px solid green;
+    width: 200px;
+    height: 300px;
+    margin: 60px;
+}
+
+.caja-2{
+    background: rgb(252, 107, 107);
+    border: 30px solid black;
+    padding: 10px;
+    width: 200px;
+    height: 300px;
+    margin: 60px;
+
+}
